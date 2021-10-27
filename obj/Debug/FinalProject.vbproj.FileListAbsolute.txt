@@ -1,0 +1,15 @@
+D:\New folder\FP\FinalProject\FinalProject\obj\Debug\FinalProject.vbprojAssemblyReference.cache
+D:\New folder\FP\FinalProject\FinalProject\obj\Debug\FinalProject.Form1.resources
+D:\New folder\FP\FinalProject\FinalProject\obj\Debug\FinalProject.Form2.resources
+D:\New folder\FP\FinalProject\FinalProject\obj\Debug\FinalProject.Form3.resources
+D:\New folder\FP\FinalProject\FinalProject\obj\Debug\FinalProject.Form4.resources
+D:\New folder\FP\FinalProject\FinalProject\obj\Debug\FinalProject.Resources.resources
+D:\New folder\FP\FinalProject\FinalProject\obj\Debug\FinalProject.vbproj.GenerateResource.cache
+D:\New folder\FP\FinalProject\FinalProject\bin\Debug\AMC1-2003.mdb
+D:\New folder\FP\FinalProject\FinalProject\bin\Debug\FinalProject.exe.config
+D:\New folder\FP\FinalProject\FinalProject\bin\Debug\FinalProject.exe
+D:\New folder\FP\FinalProject\FinalProject\bin\Debug\FinalProject.pdb
+D:\New folder\FP\FinalProject\FinalProject\bin\Debug\FinalProject.xml
+D:\New folder\FP\FinalProject\FinalProject\obj\Debug\FinalProject.exe
+D:\New folder\FP\FinalProject\FinalProject\obj\Debug\FinalProject.xml
+D:\New folder\FP\FinalProject\FinalProject\obj\Debug\FinalProject.pdb
